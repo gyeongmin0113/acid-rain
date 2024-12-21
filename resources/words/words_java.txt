@@ -1,0 +1,111 @@
+// words_java.txt
+public
+class
+interface
+extends
+implements
+void
+int
+String
+boolean
+final
+static
+private
+protected
+abstract
+synchronized
+try
+catch
+throw
+throws
+finally
+System.out.println
+public static void main
+new ArrayList<>()
+List<String>
+Map<String, Integer>
+for(int i=0; i<n; i++)
+while(true)
+do{} while()
+if(condition)
+else if
+switch(value)
+case:
+break;
+continue;
+return null;
+this.value
+super.method()
+@Override
+Collections.sort
+Arrays.asList()
+StringBuilder sb
+random.nextInt()
+printStackTrace()
+Integer.parseInt
+String.valueOf
+.equals()
+.toString()
+.length()
+.isEmpty()
+.contains()
+.toLowerCase()
+.toUpperCase()
+.substring()
+.charAt()
+.indexOf()
+ArrayList<>()
+HashSet<>()
+HashMap<>()
+Thread.sleep
+Scanner input
+BufferedReader
+FileReader
+IOException
+RuntimeException
+NullPointerException
+instanceof
+package
+import java.util.*
+import java.io.*
+stream().map()
+filter()
+collect()
+Collectors.toList()
+Optional<T>
+orElse(null)
+CompletableFuture
+synchronized(this)
+volatile
+transient
+default
+lambda ->
+method reference ::
+forEach()
+file.exists()
+file.createNewFile()
+System.currentTimeMillis()
+LocalDateTime.now()
+DateTimeFormatter
+Pattern.compile
+Matcher.find()
+Arrays.copyOf
+Objects.requireNonNull
+Math.random()
+Math.max
+Math.min
+Math.abs
+Runtime.getRuntime()
+SwingUtilities.invokeLater
+new Thread(() ->
+ExecutorService
+Callable<T>
+Future<T>
+AtomicInteger
+ConcurrentHashMap
+ReentrantLock
+Condition
+CountDownLatch
+CyclicBarrier
+Semaphore
+ThreadPoolExecutor

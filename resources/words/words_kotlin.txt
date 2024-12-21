@@ -1,0 +1,131 @@
+// words_kotlin.txt
+fun
+val
+var
+class
+object
+interface
+data class
+sealed class
+enum class
+companion object
+init
+constructor
+override
+private
+protected
+public
+internal
+abstract
+final
+open
+suspend
+lateinit
+const
+inline
+noinline
+crossinline
+reified
+vararg
+infix
+operator
+by
+get()
+set()
+init {}
+when
+if
+else
+for
+while
+do
+try
+catch
+finally
+throw
+return
+break
+continue
+this
+super
+null
+Unit
+Any
+Nothing
+ArrayList<>()
+List<String>
+Map<String, Int>
+mutableListOf()
+mutableMapOf()
+setOf()
+listOf()
+mapOf()
+sequence {}
+yield()
+with()
+let
+also
+apply
+run
+repeat
+forEach
+map
+filter
+reduce
+fold
+take
+drop
+first
+last
+single
+distinctBy
+sortedBy
+groupBy
+flatten
+joinToString
+toString()
+equals()
+hashCode()
+component1()
+by lazy
+by delegate
+@JvmStatic
+@JvmField
+@Volatile
+@Synchronized
+suspend fun
+coroutineScope
+launch
+async
+await
+runBlocking
+withContext
+flow {}
+emit
+collect
+viewModelScope
+lifecycleScope
+GlobalScope
+Channel<T>
+Job
+Deferred
+LiveData<T>
+MutableLiveData
+ViewModel()
+Activity()
+Fragment()
+Composable
+remember
+mutableStateOf
+LaunchedEffect
+collectAsState
+Box
+Row
+Column
+Text
+Button
+Image
+Surface
+Scaffold
+rememberCoroutineScope
+rememberNavController

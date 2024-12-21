@@ -1,0 +1,122 @@
+// words_c.txt
+#include
+#define
+#ifndef
+#endif
+#pragma
+typedef
+struct
+union
+enum
+sizeof
+void
+int
+char
+float
+double
+long
+short
+unsigned
+signed
+const
+static
+volatile
+extern
+register
+auto
+return
+if
+else
+switch
+case
+break
+default
+while
+for
+do
+goto
+continue
+printf
+scanf
+malloc
+free
+calloc
+realloc
+memcpy
+memset
+strcpy
+strcat
+strlen
+strcmp
+NULL
+void*
+FILE*
+fopen
+fclose
+fread
+fwrite
+fprintf
+fscanf
+main()
+argc
+argv
+typedef struct
+sizeof(type)
+&variable
+*pointer
+->member
+struct name
+union name
+enum color
+#define MAX
+const int
+static void
+volatile int
+printf("%d\n"
+scanf("%d"
+malloc(size)
+free(ptr)
+while(1)
+for(i=0
+if(condition)
+switch(value)
+case 1:
+return 0
+void function()
+int main()
+char str[]
+float num
+double pi
+long long
+unsigned int
+signed char
+extern int
+register int
+auto int
+sizeof(int)
+&address
+*pointer
+struct node
+union data
+enum days
+typedef int
+#define PI
+const char
+static int
+volatile char
+printf("Hello
+scanf("%s"
+malloc(sizeof
+free(pointer
+memcpy(dest
+memset(array
+strcpy(dest
+strcat(dest
+strlen(str)
+strcmp(str1
+NULL ptr
+FILE* fp
+fopen("file
+fclose(fp)
+fprintf(fp
+fscanf(fp
